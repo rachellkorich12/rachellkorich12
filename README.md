@@ -1,4 +1,4 @@
-# Hi, I’m Felicia Rachell Korich 👋
+# Hello! I’m Felicia Rachell Korich 👋
 
 I’m an undergraduate student at **Bina Nusantara University**, majoring in **Interactive Design and Technology** (double degree in Visual Communication Design & Information Systems).  
 With a passion for **UI/UX design** and **iOS development**, I strive to create intuitive and engaging user experiences by blending creativity with technical expertise.
