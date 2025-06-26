@@ -26,7 +26,7 @@ With a passion for **UI/UX design** and **iOS development**, I strive to create 
 
 ## 🌟 Featured Project
 
-- [GTUp](https://github.com/ChronoStellar/GTUp) — *(Current Project)*  
+- [GTUp](https://github.com/ChronoStellar/GTUp) — *(Apple Devs Project)*  
   Contributing as an iOS developer and designer to create seamless and engaging user experiences.
 
 ---
