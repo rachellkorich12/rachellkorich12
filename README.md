@@ -18,16 +18,20 @@ With a passion for **UI/UX design** and **iOS development**, I strive to create 
 ## 🛠️ Skills
 
 - **iOS Development:** Swift, SwiftUI, UIKit
-- **UI/UX Design:** Wireframing, Prototyping, Figma, Adobe XD
-- **Creative Tools:** Illustrator, After Effets
+- **UI/UX Design:** Wireframing, Prototyping, Figma
+- **Creative Tools:** Illustrator, After Effects
+- **
 - **Other:** Design Thinking, User Research
 
 ---
 
 ## 🌟 Featured Project
 
-- [GTUp](https://github.com/ChronoStellar/GTUp) — *(Apple Devs Project)*  
+- [GTUp!](https://github.com/ChronoStellar/GTUp) — *(Apple Devs Project)*  
   Contributing as an iOS developer and designer to create seamless and engaging user experiences.
+- [Pingoo](https://github.com/ChronoStellar/GTUp) — *(Apple Devs Project)*
+  Contributing as an iOS developer that focuses on SwiftUI and User Interface 
+
 
 ---
 
