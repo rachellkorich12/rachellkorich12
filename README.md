@@ -20,7 +20,6 @@ With a passion for **UI/UX design** and **iOS development**, I strive to create 
 - **iOS Development:** Swift, SwiftUI, UIKit
 - **UI/UX Design:** Wireframing, Prototyping, Figma
 - **Creative Tools:** Illustrator, After Effects
-- **
 - **Other:** Design Thinking, User Research
 
 ---
@@ -29,7 +28,7 @@ With a passion for **UI/UX design** and **iOS development**, I strive to create 
 
 - [GTUp!](https://github.com/ChronoStellar/GTUp) — *(Apple Devs Project)*  
   Contributing as an iOS developer and designer to create seamless and engaging user experiences.
-- [Pingoo](https://github.com/ChronoStellar/GTUp) — *(Apple Devs Project)*
+- [Pingoo](https://github.com/kevinprtn/DrowsinessTeam.git) — *(Apple Devs Project)*
   Contributing as an iOS developer that focuses on SwiftUI and User Interface 
 
 
